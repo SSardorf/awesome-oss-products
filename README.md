@@ -18,7 +18,7 @@ A collection of awesome fully-fledged open source products.
 ## Development Products
 *Enhance your development activities through the power of open-source software*
 
-* [Dub.co](https://github.com/dubinc/dub) - [(Website)](https://dub.co/) - Link shortening, tracking and analytics
+* [OpenStatus](https://github.com/openstatusHQ/openstatus) - [(Website)](https://www.openstatus.dev/) - Uptime tracking and incident management
 * [Medusa](https://github.com/medusajs/medusa) - [(Website)](https://medusajs.com/) - Building blocks for a Shopify alternative.
 
 ## Productivity Products
