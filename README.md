@@ -24,7 +24,7 @@ _Enhance your development activities through the power of open-source software_
 
 -   [OpenStatus](https://github.com/openstatusHQ/openstatus) - [(Website)](https://www.openstatus.dev/) - Uptime tracking and incident management
 -   [Medusa](https://github.com/medusajs/medusa) - [(Website)](https://medusajs.com/) - Building blocks for a Shopify alternative.
--   [BoxyHQ](https://github.com/boxyhq/jackson) - [(Website)](httphttps://github.com/boxyhq) - A suite of products streamlining security and compliance in development.
+-   [BoxyHQ](https://github.com/boxyhq/jackson) - [(Website)](https://boxyhq.com/) - A suite of products streamlining security and compliance in development.
 -   [Hanko](https://github.com/teamhanko/hanko) - [(Website)](https://hanko.io/) - Clerk alternative - Open source authentication APIs and UI components for modern apps
 -   [Infisical](https://github.com/Infisical/infisical) - [(Website)](https://infisical.com/) - End-to-end platform to securely manage secrets and configs across your team and infrastructure
 
