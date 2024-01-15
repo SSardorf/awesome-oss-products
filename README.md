@@ -13,10 +13,11 @@ _Power all your business activities through open-source software_
 
 -   [Dub.co](https://github.com/dubinc/dub) - [(Website)](https://dub.co/) - Link shortening, tracking and analytics
 -   [TwentyCRM](https://github.com/twentyhq/twenty) - [(Website)](https://twenty.com/) - Open source alternative to salesforce
--   [Documenso](https://github.com/documenso/documenso) - [(Website)](https://documenso.com/) - DocuSign Alternative - Sign documents online
+-   [Documenso](https://github.com/documenso/documenso) - [(Website)](https://documenso.com/) - DocuSign alternative - Sign documents online
 -   [Appsmith](https://github.com/appsmithorg/appsmith) - [(Website)](https://www.appsmith.com/) - Retool alternative - Build internal tools, remarkably fast.
 -   [Erxes](https://github.com/erxes/erxes) - [(Website)](https://erxes.io/) - Hubspot alternative - Growth marketing platform
 -   [Formbricks](https://github.com/formbricks/formbricks) - [(Website)](https://formbricks.com/) - Typeform alternative - Create surveys and collect responses
+-   [Lago](https://github.com/getlago/lago) - [(Website)](https://getlago.com/) - Stripe alternative - Metering & Usage-Based Billing
 
 ## Development Products
 
